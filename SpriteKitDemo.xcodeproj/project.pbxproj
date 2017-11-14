@@ -18,6 +18,8 @@
 		A9A8DA101FB6AABA0061CD90 /* ArcheryScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9A8DA0F1FB6AABA0061CD90 /* ArcheryScene.swift */; };
 		A9A8DA121FB6AAF40061CD90 /* ArcheryScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = A9A8DA111FB6AAF40061CD90 /* ArcheryScene.sks */; };
 		A9A8DA141FB7B6D00061CD90 /* ArcherActions.sks in Resources */ = {isa = PBXBuildFile; fileRef = A9A8DA131FB7B6D00061CD90 /* ArcherActions.sks */; };
+		A9A8DA401FBA576E0061CD90 /* BurstParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = A9A8DA3F1FBA576E0061CD90 /* BurstParticle.sks */; };
+		A9A8DA421FBA5BD10061CD90 /* burstsound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A9A8DA411FBA5BD10061CD90 /* burstsound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,8 @@
 		A9A8DA0F1FB6AABA0061CD90 /* ArcheryScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArcheryScene.swift; sourceTree = "<group>"; };
 		A9A8DA111FB6AAF40061CD90 /* ArcheryScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = ArcheryScene.sks; sourceTree = "<group>"; };
 		A9A8DA131FB7B6D00061CD90 /* ArcherActions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = ArcherActions.sks; sourceTree = "<group>"; };
+		A9A8DA3F1FBA576E0061CD90 /* BurstParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = BurstParticle.sks; sourceTree = "<group>"; };
+		A9A8DA411FBA5BD10061CD90 /* burstsound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = burstsound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +82,8 @@
 				A9A8DA041FB6A56A0061CD90 /* Assets.xcassets */,
 				A9A8DA061FB6A56A0061CD90 /* LaunchScreen.storyboard */,
 				A9A8DA091FB6A56A0061CD90 /* Info.plist */,
+				A9A8DA3F1FBA576E0061CD90 /* BurstParticle.sks */,
+				A9A8DA411FBA5BD10061CD90 /* burstsound.mp3 */,
 			);
 			path = SpriteKitDemo;
 			sourceTree = "<group>";
@@ -145,8 +151,10 @@
 				A9A8D9FA1FB6A56A0061CD90 /* GameScene.sks in Resources */,
 				A9A8DA051FB6A56A0061CD90 /* Assets.xcassets in Resources */,
 				A9A8DA121FB6AAF40061CD90 /* ArcheryScene.sks in Resources */,
+				A9A8DA401FBA576E0061CD90 /* BurstParticle.sks in Resources */,
 				A9A8DA141FB7B6D00061CD90 /* ArcherActions.sks in Resources */,
 				A9A8DA081FB6A56A0061CD90 /* LaunchScreen.storyboard in Resources */,
+				A9A8DA421FBA5BD10061CD90 /* burstsound.mp3 in Resources */,
 				A9A8D9FC1FB6A56A0061CD90 /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
