@@ -78,12 +78,12 @@
 				A9A8DA111FB6AAF40061CD90 /* ArcheryScene.sks */,
 				A9A8D9FB1FB6A56A0061CD90 /* Actions.sks */,
 				A9A8DA131FB7B6D00061CD90 /* ArcherActions.sks */,
+				A9A8DA3F1FBA576E0061CD90 /* BurstParticle.sks */,
+				A9A8DA411FBA5BD10061CD90 /* burstsound.mp3 */,
 				A9A8DA011FB6A56A0061CD90 /* Main.storyboard */,
 				A9A8DA041FB6A56A0061CD90 /* Assets.xcassets */,
 				A9A8DA061FB6A56A0061CD90 /* LaunchScreen.storyboard */,
 				A9A8DA091FB6A56A0061CD90 /* Info.plist */,
-				A9A8DA3F1FBA576E0061CD90 /* BurstParticle.sks */,
-				A9A8DA411FBA5BD10061CD90 /* burstsound.mp3 */,
 			);
 			path = SpriteKitDemo;
 			sourceTree = "<group>";
